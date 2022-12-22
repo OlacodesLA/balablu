@@ -1,0 +1,24 @@
+{
+  "A Bala Blu, Cassava and Garri paragraph": {
+    "prefix": "bala10",
+    "body": [
+      "A town hall different from bala blu, blue blu bulaba. broom broom broom brooooooooom. Bala blu blue blu bulaba. The farmers will make more money. Your lunch will not be imported, cassava garri ewa and ehhh ehhhhnn. The farmer will make money, the dinner would be cassava, eba, ewa and everything."
+    ],
+    "description": "Creates a bala blu, cassav and garri parapraph"
+  },
+  "A Cassava Garri paragraph": {
+    "prefix": "cassava",
+    "body": [
+      "The farmers will make more money. Your lunch will not be imported, cassava garri ewa and ehhh ehhhhnn. The farmer will make money, the dinner would be cassava eba ewa and everything."
+    ],
+    "description": "Creates a Cassava Garri parapraph"
+  },
+
+  "A Bala Blu paragraph": {
+    "prefix": "bala",
+    "body": [
+      "A town hall different from bala blu, blue blu bulaba. broom broom broom brooooooooom. Bala blu blue blu bulaba."
+    ],
+    "description": "Creates a Bala Blu paragraph"
+  }
+}
