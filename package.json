@@ -28,6 +28,46 @@
       {
         "language": "javascriptreact",
         "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "bat",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "haml",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "java",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "ruby",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "rust",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "json",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "dockerfile",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "markdown",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "plaintext",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "python",
+        "path": "./snippets/snippets.code-snippets"
       }
     ]
   }
